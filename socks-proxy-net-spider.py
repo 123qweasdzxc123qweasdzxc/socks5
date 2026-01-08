@@ -22,3 +22,4 @@ class QuotesSpider(scrapy.Spider):
                     'r': tds
                 }
 
+bash -x validate.sh
